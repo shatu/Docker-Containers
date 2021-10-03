@@ -1,4 +1,5 @@
 #0.6.3
+
 #docker pull shatu/pytorch:torch131_cuda101-onnxrt05_feb5apex_transformers3_sp_v0.1
 
 Extends 1.3-cuda10.1-onnxruntime0.5_nccl_apex_ninja to:
