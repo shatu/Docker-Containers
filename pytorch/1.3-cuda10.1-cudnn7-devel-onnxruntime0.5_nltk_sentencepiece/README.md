@@ -1,4 +1,6 @@
 #0.5.3
+#docker pull shatu/pytorch:1.3-cuda10.1-cudnn7-devel-onnxruntime0.5_nltk_sentencepiece
+
 This Image is based on the officla AzureML base image: https://github.com/Azure/AzureML-Containers/blob/master/base/gpu/openmpi3.1.2-cuda10.1-cudnn7-ubuntu18.04/Dockerfile
 
 It has been modified for the following:
