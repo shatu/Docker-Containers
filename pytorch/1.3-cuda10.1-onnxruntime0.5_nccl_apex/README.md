@@ -1,4 +1,5 @@
 #0.6
+
 #docker pull shatu/pytorch:1.3-cuda10.1-onnxruntime0.5_nccl_apex
 
 This Image is based on a DeepScale/DeepSpeed docker image: https://github.com/microsoft/DeepSpeed/blob/master/docker/Dockerfile
