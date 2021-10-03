@@ -1,0 +1,3 @@
+onnxruntime==0.5
+py-rouge==1.1
+sacrebleu==1.4.3
