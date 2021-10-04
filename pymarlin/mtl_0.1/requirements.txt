@@ -1,0 +1,13 @@
+datasets
+pymarlin==0.2.8
+torch==1.9.1+cu111
+-f https://download.pytorch.org/whl/torch_stable.html
+transformers==4.10.3
+sklearn
+matplotlib
+mock
+labml_helpers
+labml_nn
+nltk
+conllu
+pytest
